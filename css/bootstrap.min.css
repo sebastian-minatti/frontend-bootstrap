@@ -3215,15 +3215,15 @@ fieldset[disabled] .btn-default.active {
     background-color: #ffffff
 }
 .btn-primary {
-    color: #ffffff;
-    background-color: #000000;
-    border-color: #000000
+    color: #000000;
+    background-color: #EDE275;
+    border-color: #EDE275
 }
 .btn-primary:focus,
 .btn-primary.focus {
     color: #ffffff;
     background-color: #1a242f;
-    border-color: #000000
+    border-color: #EDE275
 }
 .btn-primary:hover {
     color: #ffffff;
