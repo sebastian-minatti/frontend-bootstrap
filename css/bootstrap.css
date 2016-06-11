@@ -4273,6 +4273,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
     max-height: 200px;    
+    background-color: #1a242f;
   }
 }
 .container > .navbar-header,
@@ -4553,7 +4554,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
   color: #18bc9c;
-  background-color: transparent;
+  background-color: #1a242f;
 }
 .navbar-default .navbar-text {
   color: #777777;
