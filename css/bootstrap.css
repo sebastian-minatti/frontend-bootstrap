@@ -4273,6 +4273,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
     max-height: 200px;
+    background-color: #2c3e50;
   }
 }
 .container > .navbar-header,
@@ -4347,7 +4348,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   float: right;
   margin-right: 15px;
   padding: 9px 10px;
-  margin-top: 13px;
+  margin-top: 13px;navbar-nav
   margin-bottom: 13px;
   background-color: transparent;
   background-image: none;
@@ -4381,7 +4382,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
-    position: static;
+    position: static;navbar-nav
     float: none;
     width: auto;
     margin-top: 0;
