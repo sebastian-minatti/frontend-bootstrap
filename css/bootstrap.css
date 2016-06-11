@@ -4273,7 +4273,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
     max-height: 200px;    
-    background-color: #1a242f;
   }
 }
 .container > .navbar-header,
@@ -4282,6 +4281,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .container-fluid > .navbar-collapse {
   margin-right: -15px;
   margin-left: -15px;
+  background-color: #1a242f;
 }
 @media (min-width: 768px) {
   .container > .navbar-header,
